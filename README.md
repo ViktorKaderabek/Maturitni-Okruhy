@@ -1,0 +1,33 @@
+# Hotové otázky
+
+- [✔️] [DTS] Otázka č. 1 
+- [ ] [GTV] Otázka č. 2 
+- [ ] [PRG] Otázka č. 3 
+- [✔️] [DTS] Otázka č. 4 
+- [ ] [OTH] Otázka č. 5
+- [ ] [PRG] Otázka č. 6 
+- [ ] [DTS] Otázka č. 7 
+- [✔️] [OTH] Otázka č. 8 
+- [ ] [PRG] Otázka č. 9 
+- [ ] [OTH] Otázka č. 10
+- [ ] [OTH] Otázka č. 11
+- [ ] [PRG] Otázka č. 12 
+- [ ] [DTS] Otázka č. 13 
+- [ ] [OTH] Otázka č. 14
+- [ ] [GTV] Otázka č. 15 
+- [ ] [DTS] Otázka č. 16 
+- [ ] [GTV] Otázka č. 17 
+- [ ] [PRG] Otázka č. 18 
+- [ ] [DTS] Otázka č. 19 
+- [ ] [GTV] Otázka č. 20 
+- [✔️] [PRG] Otázka č. 21 
+- [ ] [DTS] Otázka č. 22 
+- [ ] [GTV] Otázka č. 23 
+- [✔️] [PRG] Otázka č. 24 
+- [ ] [DTS] Otázka č. 25 
+- [ ] [GTV] Otázka č. 26 
+- [ ] [PRG] Otázka č. 27 
+- [ ] [DTS] Otázka č. 28 
+- [ ] [GTV] Otázka č. 29 
+- [ ] [PRG] Otázka č. 30 
+
