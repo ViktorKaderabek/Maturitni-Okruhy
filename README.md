@@ -6,7 +6,7 @@
 ## Odborné předměty 
 
  [✔️] [DTS] Otázka č. 1 <br>
- [❌] [GTV] Otázka č. 2 <br>
+ [✔️] [GTV] Otázka č. 2 <br>
  [❌] [PRG] Otázka č. 3 <br>
  [✔️] [DTS] Otázka č. 4 <br>
  [❌] [OTH] Otázka č. 5<br>
