@@ -43,14 +43,14 @@
  
  [✔️] [AJ] Otázka č. 1 <br>
  [✔️] [AJ] Otázka č. 2 <br>
+ [✔️] [AJ] Otázka č. 9 <br>
+ [✔️] [AJ] Otázka č. 10 <br>
  [❌] [AJ] Otázka č. 3 <br>
  [❌] [AJ] Otázka č. 4 <br>
  [❌] [AJ] Otázka č. 5 <br>
  [❌] [AJ] Otázka č. 6 <br>
  [❌] [AJ] Otázka č. 7 <br>
  [❌] [AJ] Otázka č. 8 <br>
- [✔️] [AJ] Otázka č. 9 <br>
- [✔️] [AJ] Otázka č. 10 <br>
  [❌] [AJ] Otázka č. 11 <br>
  [❌] [AJ] Otázka č. 12 <br>
  [❌] [AJ] Otázka č. 13 <br>
