@@ -9,7 +9,7 @@
  [✔️] [GTV] Otázka č. 2 <br>
  [❌] [PRG] Otázka č. 3 <br>
  [✔️] [DTS] Otázka č. 4 <br>
- [❌] [OTH] Otázka č. 5<br>
+ [✔️] [OTH] Otázka č. 5 <br>
  [❌] [PRG] Otázka č. 6 <br>
  [❌] [DTS] Otázka č. 7 <br>
  [✔️] [OTH] Otázka č. 8 <br>
