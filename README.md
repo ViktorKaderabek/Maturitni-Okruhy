@@ -1,22 +1,25 @@
 # Hotové otázky
 
-[✔️] = 28 Otázek Hotovo <br>
-[❌] = 42 Otázek Zbývá
+[✔️] = 29 Otázek Hotovo <br>
+[❌] = 41 Otázek Zbývá
 
 ## Odborné předměty 
 
  [✔️] [DTS] Otázka č. 1 <br>
  [✔️] [GTV] Otázka č. 2 <br>
- [❌] [PRG] Otázka č. 3 <br>
  [✔️] [DTS] Otázka č. 4 <br>
  [✔️] [OTH] Otázka č. 5 <br>
+ [✔️] [OTH] Otázka č. 8 <br>
+ [✔️] [PRG] Otázka č. 12 <br>
+ [✔️] [PRG] Otázka č. 24 <br>
+ [✔️] [PRG] Otázka č. 24 <br>
+ [✔️] [PRG] Otázka č. 21 <br>
+ [❌] [PRG] Otázka č. 3 <br>
  [❌] [PRG] Otázka č. 6 <br>
  [❌] [DTS] Otázka č. 7 <br>
- [✔️] [OTH] Otázka č. 8 <br>
  [❌] [PRG] Otázka č. 9 <br>
  [❌] [OTH] Otázka č. 10<br>
  [❌] [OTH] Otázka č. 11<br>
- [✔️] [PRG] Otázka č. 12 <br>
  [❌] [DTS] Otázka č. 13 <br>
  [❌] [OTH] Otázka č. 14<br>
  [❌] [GTV] Otázka č. 15 <br>
@@ -25,10 +28,8 @@
  [❌] [PRG] Otázka č. 18 <br>
  [❌] [DTS] Otázka č. 19 <br>
  [❌] [GTV] Otázka č. 20 <br>
- [✔️] [PRG] Otázka č. 21 <br>
  [❌] [DTS] Otázka č. 22 <br>
  [❌] [GTV] Otázka č. 23 <br>
- [✔️] [PRG] Otázka č. 24 <br>
  [❌] [DTS] Otázka č. 25 <br>
  [❌] [GTV] Otázka č. 26 <br>
  [❌] [PRG] Otázka č. 27 <br>
