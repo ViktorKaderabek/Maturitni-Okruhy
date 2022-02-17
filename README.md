@@ -1,6 +1,6 @@
 # Hotové otázky
 
-[✔️] = 38 Otázek Hotovo <br>
+[✔️] = 37 Otázek Hotovo <br>
 [❌] = 33 Otázek Zbývá
 
 ## Odborné předměty 
