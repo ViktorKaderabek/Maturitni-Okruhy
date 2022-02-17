@@ -12,7 +12,6 @@
  [✔️] [OTH] Otázka č. 8 <br>
  [✔️] [PRG] Otázka č. 12 <br>
  [✔️] [PRG] Otázka č. 24 <br>
- [✔️] [PRG] Otázka č. 24 <br>
  [✔️] [PRG] Otázka č. 21 <br>
  [✔️] [PRG] Otázka č. 9 <br>
  [✔️] [OTH] Otázka č. 10<br>
