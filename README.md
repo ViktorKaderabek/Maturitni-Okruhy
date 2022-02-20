@@ -1,7 +1,7 @@
 # Hotové otázky
 
-[✔️] = 45 Otázek Hotovo <br>
-[❌] = 25 Otázek Zbývá
+[✔️] = 46 Otázek Hotovo <br>
+[❌] = 24 Otázek Zbývá
  ____________________________________________________________________________________________________________________________
 [✔️] = 17 Otázek Hotovo <br>
 [❌] = 13 Otázek Zbývá
@@ -57,11 +57,11 @@
  [✔️] [AJ] Otázka č. 19 <br>
  [✔️] [AJ] Otázka č. 18 <br>
  [✔️] [AJ] Otázka č. 16 <br>
+ [✔️] [AJ] Otázka č. 7 <br>
  [❌] [AJ] Otázka č. 3 <br>
  [❌] [AJ] Otázka č. 4 <br>
  [❌] [AJ] Otázka č. 5 <br>
  [❌] [AJ] Otázka č. 6 <br>
- [❌] [AJ] Otázka č. 7 <br>
  [❌] [AJ] Otázka č. 8 <br>
  [❌] [AJ] Otázka č. 12 <br>
  [❌] [AJ] Otázka č. 17 <br>
