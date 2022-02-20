@@ -1,7 +1,7 @@
 # Hotové otázky
 
-[✔️] = 40 Otázek Hotovo <br>
-[❌] = 30 Otázek Zbývá
+[✔️] = 41 Otázek Hotovo <br>
+[❌] = 29 Otázek Zbývá
  ____________________________________________________________________________________________________________________________
 [✔️] = 17 Otázek Hotovo <br>
 [❌] = 13 Otázek Zbývá
@@ -41,8 +41,8 @@
  
  ____________________________________________________________________________________________________________________________
  
-[✔️] = 6 Otázek Hotovo <br>
-[❌] = 14 Otázek Zbývá
+[✔️] = 7 Otázek Hotovo <br>
+[❌] = 13 Otázek Zbývá
  
   ## Angličtina
  
@@ -52,6 +52,7 @@
  [✔️] [AJ] Otázka č. 10 <br>
  [✔️] [AJ] Otázka č. 13 <br>
  [✔️] [AJ] Otázka č. 14 <br>
+ [✔️] [AJ] Otázka č. 15 <br>
  [❌] [AJ] Otázka č. 3 <br>
  [❌] [AJ] Otázka č. 4 <br>
  [❌] [AJ] Otázka č. 5 <br>
@@ -60,7 +61,6 @@
  [❌] [AJ] Otázka č. 8 <br>
  [❌] [AJ] Otázka č. 11 <br>
  [❌] [AJ] Otázka č. 12 <br>
- [❌] [AJ] Otázka č. 15 <br>
  [❌] [AJ] Otázka č. 16 <br>
  [❌] [AJ] Otázka č. 17 <br>
  [❌] [AJ] Otázka č. 18 <br>
