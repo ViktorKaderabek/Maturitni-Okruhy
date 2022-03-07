@@ -1,10 +1,10 @@
 # Hotové otázky
 
-[✔️] = 53 Otázek Hotovo <br>
-[❌] = 17 Otázek Zbývá
+[✔️] = 54 Otázek Hotovo <br>
+[❌] = 16 Otázek Zbývá
  ____________________________________________________________________________________________________________________________
 [✔️] = 17 Otázek Hotovo <br>
-[❌] = 13 Otázek Zbývá
+[❌] = 12 Otázek Zbývá
 
 ## Odborné předměty 
 
@@ -25,7 +25,7 @@
  [✔️] [PRG] Otázka č. 3 <br>
  [✔️] [DTS] Otázka č. 13 <br>
  [✔️] [PRG] Otázka č. 6 <br>
- [❌] [GTV] Otázka č. 11<br>
+ [✔️] [GTV] Otázka č. 11<br>
  [❌] [GTV] Otázka č. 14<br>
  [❌] [GTV] Otázka č. 15 <br>
  [❌] [DTS] Otázka č. 16 <br>
