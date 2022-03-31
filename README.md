@@ -1,10 +1,10 @@
 # Hotové otázky
 
-[✔️] = 60 Otázek Hotovo <br>
-[❌] = 10 Otázek Zbývá
+[✔️] = 62 Otázek Hotovo <br>
+[❌] = 8 Otázek Zbývá
  ____________________________________________________________________________________________________________________________
-[✔️] = 23 Otázek Hotovo <br>
-[❌] = 7 Otázek Zbývá
+[✔️] = 25 Otázek Hotovo <br>
+[❌] = 5 Otázek Zbývá
 
 ## Odborné předměty 
 
@@ -31,11 +31,11 @@
  [✔️] [GTV] Otázka č. 15 <br>
  [✔️] [GTV] Otázka č. 17 <br>
  [✔️] [GTV] Otázka č. 20 <br>
+ [✔️] [GTV] Otázka č. 26 <br>
+ [✔️] [GTV] Otázka č. 23 <br>
  [❌] [GTV] Otázka č. 14<br>
  [❌] [DTS] Otázka č. 22 <br>
- [❌] [GTV] Otázka č. 23 <br>
  [❌] [DTS] Otázka č. 25 <br>
- [❌] [GTV] Otázka č. 26 <br>
  [❌] [DTS] Otázka č. 28 JARA <br>
  [❌] [GTV] Otázka č. 29 <br>
  
