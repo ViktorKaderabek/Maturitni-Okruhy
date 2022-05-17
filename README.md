@@ -27,7 +27,7 @@
  [✔️] [PRG] Otázka č. 6 <br>
  [✔️] [GTV] Otázka č. 11<br>
  [✔️] [PRG] Otázka č. 27 <br>
- [✔️] [DTS] Otázka č. 16 JARA <br>
+ [✔️] [DTS] Otázka č. 16  <br>
  [✔️] [GTV] Otázka č. 15 <br>
  [✔️] [GTV] Otázka č. 17 <br>
  [✔️] [GTV] Otázka č. 20 <br>
@@ -36,7 +36,7 @@
  [✔️] [DTS] Otázka č. 22 <br>
  [✔️] [DTS] Otázka č. 25 <br>
  [✔️] [GTV] Otázka č. 14<br>
- [❌] [DTS] Otázka č. 28 JARA <br>
+ [✔️] [DTS] Otázka č. 28  <br>
  [✔️] [GTV] Otázka č. 29 <br>
  
  ____________________________________________________________________________________________________________________________
