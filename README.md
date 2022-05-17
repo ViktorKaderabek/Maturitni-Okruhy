@@ -1,10 +1,10 @@
 # Hotové otázky
 
-[✔️] = 69 Otázek Hotovo <br>
-[❌] = 1 Otázek Zbývá
+[✔️] = 70 Otázek Hotovo <br>
+[❌] = 0 Otázek Zbývá
  ____________________________________________________________________________________________________________________________
-[✔️] = 29 Otázek Hotovo <br>
-[❌] = 1 Otázek Zbývá
+[✔️] = 30 Otázek Hotovo <br>
+[❌] = 0 Otázek Zbývá
 
 ## Odborné předměty 
 
